@@ -117,31 +117,30 @@ VisionX follows a modular, scalable architecture designed to seamlessly integrat
 
 ## Project Roadmap
 
-### Phase 1: Foundation (Q2 2023)
+### Phase 1: Foundation (Q1 2025)
 - ✅ Core platform architecture design
 - ✅ AI visual analysis engine prototype
 - ✅ Smart contract development
 - ✅ Frontend MVP development
 
-### Phase 2: Beta Launch (Q3-Q4 2023)
+### Phase 2: Beta Launch (Q2-Q3 2025)
 - ✅ Testnet deployment
 - ✅ Beta user testing and feedback collection
 - ✅ Community building and initial partnerships
-- ⬜ Token pre-sale
 
-### Phase 3: Mainnet Launch (Q1-Q2 2024)
+### Phase 3: Mainnet Launch (Q4 2025)
 - ⬜ Platform mainnet launch
 - ⬜ NFT marketplace opening
 - ⬜ Token Generation Event
 - ⬜ Major exchange listings
 
-### Phase 4: Expansion (Q3-Q4 2024)
+### Phase 4: Expansion (Q1-Q2 2026)
 - ⬜ Metaverse integration
 - ⬜ Advanced AI features release
 - ⬜ Mobile app launch
 - ⬜ Enterprise partnerships
 
-### Phase 5: Ecosystem Growth (2025)
+### Phase 5: Ecosystem Growth (Q3-Q4 2026)
 - ⬜ Developer SDK release
 - ⬜ Cross-chain expansion
 - ⬜ DAO governance implementation
@@ -217,6 +216,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-- Website: [visionx.io](https://visionx.io)
-- Twitter: [@VisionXOfficial](https://twitter.com/VisionXOfficial)
-- Discord: [VisionX Community](https://discord.gg/visionx) 
+- Website: [vision-x.xyz]
+- Twitter: [@VisonX_Official](https://x.com/VisonX_Official)
