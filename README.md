@@ -4,6 +4,10 @@
   <img src="assets/logo.svg" width="200" height="200" alt="VisionX Logo">
 </div>
 
+VisionX is the world's first DeSci platform that funds and supports AI and vision research through blockchain and AI technologies, with a special focus on eye-related technologies. VisionX combines AI visual analysis with blockchain technology to create a seamless bridge between the physical and digital worlds.
+
+**Slogan:** "See the Future, Shape the Web3"
+
 <div align="center">
   
 [![DeSci Platform](https://img.shields.io/badge/Platform-DeSci-blueviolet)](https://github.com/Vision-X-AI/visionx)
@@ -18,10 +22,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/Vision-X-AI/visionx?style=flat-square)](https://github.com/Vision-X-AI/visionx/issues)
 
 </div>
-
-VisionX is the world's first DeSci platform that funds and supports AI and vision research through blockchain and AI technologies, with a special focus on eye-related technologies. VisionX combines AI visual analysis with blockchain technology to create a seamless bridge between the physical and digital worlds.
-
-**Slogan:** "See the Future, Shape the Web3"
 
 ## Core Features
 
