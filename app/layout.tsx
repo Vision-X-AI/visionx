@@ -1,15 +1,12 @@
-export const metadata = {
+import { Metadata } from 'next'
+
+export const metadata: Metadata = {
   title: 'VisionX',
   description: 'VisionX - See the Future, Shape the Web3',
   icons: {
-    icon: [
-      { url: '/logo.svg', type: 'image/svg+xml' },
-      { url: '/favicon.ico', sizes: 'any' }
-    ],
-    apple: [
-      { url: '/logo.svg' }
-    ],
-  },
+    icon: '/logo.svg',
+    apple: '/logo.svg',
+  }
 }
 
 export default function RootLayout({
@@ -19,7 +16,6 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <head />
       <body>{children}</body>
     </html>
   )
