@@ -4,6 +4,21 @@
   <img src="assets/logo.svg" width="200" height="200" alt="VisionX Logo">
 </div>
 
+<div align="center">
+  
+[![DeSci Platform](https://img.shields.io/badge/Platform-DeSci-blueviolet)](https://github.com/Vision-X-AI/visionx)
+[![AI Technology](https://img.shields.io/badge/Technology-AI-blue)](https://github.com/Vision-X-AI/visionx)
+[![Vision Research](https://img.shields.io/badge/Research-Vision-green)](https://github.com/Vision-X-AI/visionx)
+[![Blockchain](https://img.shields.io/badge/Powered_by-Blockchain-orange)](https://github.com/Vision-X-AI/visionx)
+[![Eye Tech](https://img.shields.io/badge/Focus-Eye_Technology-brightgreen)](https://github.com/Vision-X-AI/visionx)
+
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Version](https://img.shields.io/badge/Version-1.0.0-blue)
+[![GitHub stars](https://img.shields.io/github/stars/Vision-X-AI/visionx?style=flat-square)](https://github.com/Vision-X-AI/visionx/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Vision-X-AI/visionx?style=flat-square)](https://github.com/Vision-X-AI/visionx/issues)
+
+</div>
+
 VisionX is a decentralized platform combining AI visual analysis with Web3 technologies, redefining how users connect with the blockchain world through "visually-driven intelligent interaction". Our platform extends beyond cryptocurrency trading to apply AI visual technology to NFTs, the metaverse, social interactions, and personalized experiences, empowering retail users with unprecedented participation and control.
 
 **Slogan:** "See the Future, Shape the Web3"
