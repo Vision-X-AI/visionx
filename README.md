@@ -1,5 +1,9 @@
 # VisionX
 
+<div align="center">
+  <img src="assets/logo.svg" width="200" height="200" alt="VisionX Logo">
+</div>
+
 VisionX is a decentralized platform combining AI visual analysis with Web3 technologies, redefining how users connect with the blockchain world through "visually-driven intelligent interaction". Our platform extends beyond cryptocurrency trading to apply AI visual technology to NFTs, the metaverse, social interactions, and personalized experiences, empowering retail users with unprecedented participation and control.
 
 **Slogan:** "See the Future, Shape the Web3"
