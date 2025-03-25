@@ -19,7 +19,7 @@
 
 </div>
 
-VisionX is a decentralized platform combining AI visual analysis with Web3 technologies, redefining how users connect with the blockchain world through "visually-driven intelligent interaction". Our platform extends beyond cryptocurrency trading to apply AI visual technology to NFTs, the metaverse, social interactions, and personalized experiences, empowering retail users with unprecedented participation and control.
+VisionX is the world's first DeSci platform that funds and supports AI and vision research through blockchain and AI technologies, with a special focus on eye-related technologies. VisionX combines AI visual analysis with blockchain technology to create a seamless bridge between the physical and digital worlds.
 
 **Slogan:** "See the Future, Shape the Web3"
 
